@@ -3,6 +3,13 @@
 This is a copy of http://bl.ocks.org/kgryte/5926740 but updated to d3-5.0 from
 January 2018.
 
+You can see it running on the github.io page for this repo:
+
+https://jcupitt.github.io/coxcomb/
+
+The slider at the bottom doesn't render correctly in ff for reasons I don't
+understand. 
+
 # Local development
 
 Browsers enforce strict security permissions to prevent you from reading files
